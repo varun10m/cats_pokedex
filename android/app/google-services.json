@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892702514487",
+    "project_id": "pokedex-2605e",
+    "storage_bucket": "pokedex-2605e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892702514487:android:d5b94c968e0f6ca10d0eb2",
+        "android_client_info": {
+          "package_name": "com.pet_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892702514487-87b7org0k9204r4oc2li121ogmidmsbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_miAmKZPQdIQUQ_V6G4hhO3ny_mtqEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892702514487-87b7org0k9204r4oc2li121ogmidmsbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
